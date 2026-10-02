@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using the metadata below."
+title: "AI-Assisted Post-Work Civilization Manifesto"
+type: generic
+authors:
+  - family-names: "Sanahuja Llopis"
+    given-names: "Albert"
+version: "0.3.0"
+date-released: "2026-10-02"
+repository-code: "https://github.com/asanahuja/ai-post-work-manifest"
+url: "https://github.com/asanahuja/ai-post-work-manifest"
+license: "CC-BY-NC-ND-4.0"
+abstract: >-
+  A theoretical and academic thought experiment exploring how advanced
+  artificial intelligence, automation, universal basic services, democratic
+  governance, sustainability, scientific progress and long-term civilization
+  planning could interact in a future post-work society.
+keywords:
+  - artificial intelligence
+  - post-work
+  - universal basic services
+  - AI governance
+  - sustainability
+  - automation
+  - civilization
+  - digital commons
+  - AI safety
