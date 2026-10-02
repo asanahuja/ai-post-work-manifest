@@ -1,12 +1,12 @@
 ---
 title: "Manifiesto para una civilización post-trabajo asistida por IA"
 version: "0.3.0"
-status: "Esborrany de treball"
+status: "Borrador de trabajo"
 date_created: "2026-09-16"
 date_updated: "2026-10-02"
 owner: "Albert Sanahuja Llopis"
 editorial_support: "Tete / ChatGPT"
-change_control: "Controlat"
+change_control: "Controlado"
 canonical_language: "ca"
 translation_language: "es"
 ---
@@ -17,427 +17,427 @@ translation_language: "es"
 
 ## Control documental
 
-| Camp | Valor |
+| Campo | Valor |
 |---|---|
-| **Versió actual** | **0.3.0** |
-| **Estat** | Esborrany de treball |
-| **Data de creació** | 16/09/2026 |
-| **Última modificació** | 02/10/2026 |
-| **Autor i responsable editorial final** | **Albert Sanahuja Llopis** |
-| **Suport de redacció i estructuració** | **Tete / ChatGPT** |
-| **Aprovació de canvis oficials** | **Albert Sanahuja Llopis** |
-| **Versió canònica** | Català |
-| **Repositori oficial** | https://github.com/asanahuja/ai-post-work-manifest |
+| **Versión actual** | **0.3.0** |
+| **Estado** | Borrador de trabajo |
+| **Fecha de creación** | 16/09/2026 |
+| **Última modificación** | 02/10/2026 |
+| **Autor y responsable editorial final** | **Albert Sanahuja Llopis** |
+| **Apoyo de redacción y estructuración** | **Tete / ChatGPT** |
+| **Aprobación de cambios oficiales** | **Albert Sanahuja Llopis** |
+| **Versión canónica** | Catalán |
+| **Repositorio oficial** | https://github.com/asanahuja/ai-post-work-manifest |
 
-### Versionat
+### Versionado
 
-El projecte utilitza **MAJOR.MINOR.PATCH**:
+El proyecto utiliza **MAJOR.MINOR.PATCH**:
 
-- **MAJOR** — canvi conceptual profund o edició estable.
-- **MINOR** — nous apartats o ampliacions rellevants.
-- **PATCH** — correccions de redacció, format o precisió sense canvi conceptual.
+- **MAJOR** — cambio conceptual profundo o edición estable.
+- **MINOR** — nuevos apartados o ampliaciones relevantes.
+- **PATCH** — correcciones de redacción, formato o precisión sin cambio conceptual.
 
-### Protocol de modificació
+### Protocolo de modificación
 
-1. Albert Sanahuja Llopis és l'autor, propietari intel·lectual i responsable final del document.
-2. Qualsevol persona o agent d'IA pot proposar canvis.
-3. Cap canvi passa a formar part del manifest oficial sense aprovació explícita d'Albert Sanahuja Llopis.
-4. Les modificacions conceptuals han d'identificar qui les proposa, data, motiu, apartats afectats, impacte conceptual i versió resultant.
-5. Quan una IA participi en la redacció, s'ha de considerar suport editorial, analític o estructural, no autoria final.
-6. Les traduccions castellana i anglesa s'han de mantenir semànticament sincronitzades amb aquesta versió catalana.
-7. El registre complet de versions es manté a `CHANGELOG.md`.
+1. Albert Sanahuja Llopis es el autor, titular de los derechos y responsable editorial final.
+2. Cualquier persona o agente de IA puede proponer cambios.
+3. Ningún cambio pasa a formar parte del manifiesto oficial sin la aprobación explícita de Albert Sanahuja Llopis.
+4. Las modificaciones conceptuales deben identificar quién las propone, fecha, motivo, apartados afectados, impacto conceptual y versión resultante.
+5. Cuando una IA participe en la redacción, se considerará apoyo editorial, analítico o estructural, no autoría final.
+6. Las traducciones castellana e inglesa deben mantenerse semánticamente sincronizadas con la versión catalana canónica.
+7. El historial completo de versiones se mantiene en `CHANGELOG.md`.
 
 ---
 
-## 1. Punt de partida
+## 1. Punto de partida
 
-La intel·ligència artificial no s'hauria de limitar a optimitzar el sistema econòmic i social actual.
+La inteligencia artificial no debería limitarse a optimizar el sistema económico y social actual.
 
-Si la IA arriba a convertir-se en una infraestructura cognitiva molt superior a les capacitats individuals humanes, el seu potencial real no seria només augmentar la productivitat, sinó ajudar a redissenyar les condicions materials de la vida humana.
+Si la IA llega a convertirse en una infraestructura cognitiva muy superior a las capacidades individuales humanas, su potencial real no sería únicamente aumentar la productividad, sino ayudar a rediseñar las condiciones materiales de la vida humana.
 
-> **Quin tipus de civilització podríem construir si utilitzéssim la IA per garantir una vida digna, lliure i sostenible a tota la humanitat?**
+> **¿Qué tipo de civilización podríamos construir si utilizáramos la IA para ayudar a garantizar una vida digna, libre y sostenible a toda la humanidad?**
 
-## 2. Dignitat i necessitats bàsiques
+## 2. Dignidad y necesidades básicas
 
-La supervivència i la dignitat d'una persona no haurien de dependre necessàriament de vendre la seva força de treball.
+La supervivencia y la dignidad de una persona no deberían depender necesariamente de vender su fuerza de trabajo.
 
-Una civilització tecnològicament avançada hauria d'aspirar a garantir, com a mínim:
+Una civilización tecnológicamente avanzada debería aspirar a garantizar, como mínimo:
 
-- alimentació
-- habitatge digne
-- aigua
-- energia essencial
-- salut
-- educació
-- connectivitat
-- mobilitat bàsica
-- accés al coneixement
+- alimentación
+- vivienda digna
+- agua
+- energía esencial
+- salud
+- educación
+- conectividad
+- movilidad básica
+- acceso al conocimiento
 
-Aquests elements formen la base d'uns **Serveis Bàsics Universals (SBU)**.
+Estos elementos constituyen la base de unos **Servicios Básicos Universales (SBU)**.
 
-L'objectiu no seria que totes les persones tinguessin exactament el mateix, sinó que ningú quedés exclòs de les condicions mínimes d'una vida digna.
+El objetivo no sería que todas las personas tuvieran exactamente lo mismo, sino que nadie quedara excluido de las condiciones mínimas de una vida digna.
 
-## 3. IA com a infraestructura universal
+## 3. La IA como infraestructura universal
 
-Una super-IA no hauria de quedar concentrada exclusivament en mans d'unes poques empreses, estats o propietaris.
+Una super-IA no debería quedar concentrada exclusivamente en manos de unas pocas empresas, estados o propietarios.
 
-La seva capacitat podria considerar-se una infraestructura fonamental de civilització.
+Su capacidad podría considerarse una infraestructura fundamental de civilización.
 
-Una capa d'accés universal podria donar suport a educació, salut, coneixement, recerca, administració, agricultura, energia, logística, planificació territorial i gestió de recursos.
+Una capa de acceso universal podría dar soporte a educación, salud, conocimiento, investigación, administración, agricultura, energía, logística, planificación territorial y gestión de recursos.
 
-Cal distingir entre:
+Es necesario distinguir entre:
 
-### Accés universal a la capacitat cognitiva
+### Acceso universal a la capacidad cognitiva
 
-i
+y
 
-### Accés restringit a accions capaces de generar dany sistèmic
+### Acceso restringido a acciones capaces de generar daño sistémico
 
-> **Màxima capacitat científica i cognitiva no significa absència de governança.**
+> **Máxima capacidad científica y cognitiva no significa ausencia de gobernanza.**
 
-## 4. Democràcia i governança
+## 4. Democracia y gobernanza
 
-La IA no hauria de governar la humanitat.
+La IA no debería gobernar a la humanidad.
 
-Els humans haurien de continuar definint drets, principis, objectius, límits i prioritats socials.
+Los humanos deberían seguir definiendo derechos, principios, objetivos, límites y prioridades sociales.
 
-La IA podria actuar com a simulador, assessor, coordinador, sistema de predicció, planificador de recursos, eina de verificació i infraestructura científica.
+La IA podría actuar como simulador, asesor, coordinador, sistema de predicción, planificador de recursos, herramienta de verificación e infraestructura científica.
 
-> **La humanitat decideix què considera una bona civilització. La IA ajuda a calcular com fer-la possible.**
+> **La humanidad decide qué considera una buena civilización. La IA ayuda a calcular cómo hacerla posible.**
 
-## 5. Igualtat no significa uniformitat
+## 5. Igualdad no significa uniformidad
 
-Una societat més igualitària no necessita eliminar la diversitat individual.
+Una sociedad más igualitaria no necesita eliminar la diversidad individual.
 
-La igualtat buscada seria sobretot igualtat de drets, d'accés i de dignitat, reducció de dominacions estructurals i llibertat real per decidir la pròpia vida.
+La igualdad buscada sería sobre todo igualdad de derechos, acceso y dignidad, reducción de dominaciones estructurales y libertad real para decidir la propia vida.
 
-Les persones continuarien tenint vocacions, interessos i objectius diferents.
+Las personas seguirían teniendo vocaciones, intereses y objetivos diferentes.
 
-La diferència seria que aquestes decisions estarien menys condicionades per la necessitat immediata de supervivència.
+La diferencia sería que esas decisiones estarían menos condicionadas por la necesidad inmediata de supervivencia.
 
-## 6. Societat post-treball
+## 6. Sociedad post-trabajo
 
-L'automatització no hauria de tenir com a únic objectiu reduir costos laborals.
+La automatización no debería tener como único objetivo reducir costes laborales.
 
-El seu potencial més profund seria:
+Su potencial más profundo sería:
 
-> **reduir la quantitat de treball humà obligatori necessari per mantenir la civilització.**
+> **reducir la cantidad de trabajo humano obligatorio necesario para mantener la civilización.**
 
-Si robots, IA i sistemes automatitzats poden produir una part significativa d'aliments, energia, habitatges, transport, serveis, manufactura, software i coneixement, podem començar a separar:
+Si robots, IA y sistemas automatizados pueden producir una parte significativa de alimentos, energía, viviendas, transporte, servicios, manufactura, software y conocimiento, podemos empezar a separar:
 
-> **treballar**
-
-de
-
-> **tenir dret a viure dignament**
-
-Això no significa que les persones deixin de fer coses. Significa que més persones podrien dedicar-se al que consideren valuós.
-
-## 7. El problema no són només els diners
-
-Repartir diners no resol automàticament l'escassetat.
-
-Si existeixen els mateixos habitatges, aliments, energia i recursos, però tothom disposa de més diners, els recursos escassos continuen sent escassos.
-
-Per això cal diferenciar:
-
-> **diners**
+> **trabajar**
 
 de
 
-> **recursos reals**
+> **tener derecho a vivir dignamente**
 
-La transformació estructural exigeix augmentar l'abundància material sostenible i garantir l'accés als recursos essencials.
+Esto no significa que las personas dejen de hacer cosas. Significa que más personas podrían dedicarse a aquello que consideran valioso.
 
-## 8. Economia dels recursos
+## 7. El problema no es solo el dinero
 
-Una societat futura podria gestionar categories diferents de recursos amb mecanismes diferents.
+Repartir dinero no resuelve automáticamente la escasez.
 
-### Necessitats bàsiques
+Si existen las mismas viviendas, alimentos, energía y recursos, pero todo el mundo dispone de más dinero, los recursos escasos continúan siendo escasos.
 
-Podrien quedar parcialment o totalment fora de la lògica del mercat.
+Por eso hay que diferenciar:
 
-### Infraestructures comunes
+> **dinero**
 
-Podrien considerar-se béns públics, comuns o cooperatius:
+de
 
-- energia
-- compute
+> **recursos reales**
+
+La transformación estructural exige aumentar la abundancia material sostenible y garantizar el acceso a los recursos esenciales.
+
+## 8. Economía de los recursos
+
+Una sociedad futura podría gestionar categorías diferentes de recursos mediante mecanismos distintos.
+
+### Necesidades básicas
+
+Podrían quedar parcial o totalmente fuera de la lógica del mercado.
+
+### Infraestructuras comunes
+
+Podrían considerarse bienes públicos, comunes o cooperativos:
+
+- energía
+- capacidad de cómputo
 - IA
-- dades
-- coneixement científic
-- xarxes
-- infraestructures sanitàries
-- sistemes productius essencials
+- datos
+- conocimiento científico
+- redes
+- infraestructuras sanitarias
+- sistemas productivos esenciales
 
-### Recursos escassos o opcionals
+### Recursos escasos u opcionales
 
-Podrien continuar utilitzant mercats, torns, sorteigs, prioritats, sistemes de contribució o altres models d'assignació.
+Podrían seguir utilizando mercados, turnos, sorteos, prioridades, sistemas de contribución u otros modelos de asignación.
 
-> **El mercat no hauria de determinar l'accés a les condicions bàsiques d'una vida digna.**
+> **El mercado no debería determinar el acceso a las condiciones básicas de una vida digna.**
 
-## 9. Més enllà del salari
+## 9. Más allá del salario
 
-Una societat avançada podria reconèixer contribucions de formes diferents del salari tradicional:
+Una sociedad avanzada podría reconocer contribuciones de formas distintas al salario tradicional:
 
-- temps
-- cura
-- contribució comunitària
-- recerca
-- docència
-- voluntariat
-- innovació
-- creació cultural
-- coneixement compartit
+- tiempo
+- cuidados
+- contribución comunitaria
+- investigación
+- docencia
+- voluntariado
+- innovación
+- creación cultural
+- conocimiento compartido
 
-Es podrien explorar crèdits de temps, reconeixement social, sistemes reputacionals o altres unitats de contribució.
+Se podrían explorar créditos de tiempo, reconocimiento social, sistemas reputacionales u otras unidades de contribución.
 
-Aquests mecanismes no haurien de convertir-se simplement en una nova moneda que reprodueixi les mateixes concentracions de poder.
+Estos mecanismos no deberían convertirse simplemente en una nueva moneda que reproduzca las mismas concentraciones de poder.
 
-## 10. Salut com a dret universal
+## 10. Salud como derecho universal
 
-La salut constitueix un exemple clar del canvi de paradigma.
+La salud constituye un ejemplo claro del cambio de paradigma.
 
-Una infraestructura sanitària universal hauria de cobrir prevenció, pediatria, salut mental, medicina general, especialitats, rehabilitació, cirurgia, reconstrucció després d'accidents i tractaments necessaris per recuperar qualitat de vida.
+Una infraestructura sanitaria universal debería cubrir prevención, pediatría, salud mental, medicina general, especialidades, rehabilitación, cirugía, reconstrucción después de accidentes y tratamientos necesarios para recuperar calidad de vida.
 
-La IA podria ajudar a predir necessitats, detectar malalties, personalitzar tractaments, distribuir recursos, facilitar diagnòstics i accelerar la recerca.
+La IA podría ayudar a predecir necesidades, detectar enfermedades, personalizar tratamientos, distribuir recursos, facilitar diagnósticos y acelerar la investigación.
 
-## 11. La qüestió de la propietat
+## 11. La cuestión de la propiedad
 
-Una de les preguntes més importants no és només:
+Una de las preguntas más importantes no es únicamente:
 
-> Què podrà fer la IA?
+> ¿Qué podrá hacer la IA?
 
-Sinó:
+Sino:
 
-> **Qui serà propietari de la capacitat productiva creada per la IA?**
+> **¿Quién será propietario de la capacidad productiva creada por la IA?**
 
-Si una màquina amb IA multiplica enormement la productivitat però aquesta infraestructura pertany exclusivament a una minoria, la tecnologia podria augmentar encara més la desigualtat.
+Si una máquina con IA multiplica enormemente la productividad pero esa infraestructura pertenece exclusivamente a una minoría, la tecnología podría aumentar todavía más la desigualdad.
 
-Si una part significativa d'aquesta capacitat es considera infraestructura comuna, cooperativa o pública, l'augment de productivitat podria traduir-se en menys treball obligatori, més serveis universals, més temps lliure, més educació, més recerca i més llibertat individual.
+Si una parte significativa de esa capacidad se considera infraestructura común, cooperativa o pública, el aumento de productividad podría traducirse en menos trabajo obligatorio, más servicios universales, más tiempo libre, más educación, más investigación y más libertad individual.
 
-## 12. Digital twin de la Terra
+## 12. Gemelo digital de la Tierra
 
-Una IA prou avançada podria mantenir una representació dinàmica del planeta.
+Una IA suficientemente avanzada podría mantener una representación dinámica del planeta.
 
-Un **digital twin planetari** podria integrar clima, població, agricultura, energia, biodiversitat, aigua, materials, infraestructures, transport, salut, producció i consum.
+Un **gemelo digital planetario** podría integrar clima, población, agricultura, energía, biodiversidad, agua, materiales, infraestructuras, transporte, salud, producción y consumo.
 
-Podria ajudar a respondre preguntes com:
+Podría ayudar a responder preguntas como:
 
-- Quants aliments necessitarem?
-- On faltarà aigua?
-- On convé produir energia?
-- Quins recursos cal reciclar?
-- Quanta infraestructura sanitària necessitarem?
-- On convé construir habitatges?
-- Quins ecosistemes no podem degradar?
+- ¿Cuántos alimentos necesitaremos?
+- ¿Dónde faltará agua?
+- ¿Dónde conviene producir energía?
+- ¿Qué recursos hay que reciclar?
+- ¿Cuánta infraestructura sanitaria necesitaremos?
+- ¿Dónde conviene construir viviendas?
+- ¿Qué ecosistemas no podemos degradar?
 
-Aquest sistema no hauria de decidir automàticament, sinó augmentar la qualitat de les decisions humanes.
+Este sistema no debería decidir automáticamente, sino aumentar la calidad de las decisiones humanas.
 
-## 13. Població i sostenibilitat
+## 13. Población y sostenibilidad
 
-No existeix un nombre màxim immutable de persones que poden viure a la Terra.
+No existe un número máximo inmutable de personas que puedan vivir en la Tierra.
 
-La capacitat sostenible depèn d'energia, alimentació, aigua, tecnologia, eficiència, consum, materials, biodiversitat, territori i model productiu.
+La capacidad sostenible depende de energía, alimentación, agua, tecnología, eficiencia, consumo, materiales, biodiversidad, territorio y modelo productivo.
 
-> **El límit humà del planeta no és només una qüestió demogràfica, sinó tecnològica, ecològica i social.**
+> **El límite humano del planeta no es solo una cuestión demográfica, sino tecnológica, ecológica y social.**
 
-La pregunta útil seria:
+La pregunta útil sería:
 
-> **Quanta població pot viure amb una qualitat de vida elevada sense destruir els sistemes ecològics que fan possible aquesta mateixa vida?**
+> **¿Cuánta población puede vivir con una calidad de vida elevada sin destruir los sistemas ecológicos que hacen posible esa misma vida?**
 
-Aquesta qüestió s'hauria d'abordar sense coerció ni eliminació de persones.
+Esta cuestión debería abordarse sin coerción ni eliminación de personas.
 
-## 14. Energia com a infraestructura crítica
+## 14. Energía como infraestructura crítica
 
-Una civilització automatitzada, electrificada i assistida per IA necessita enormes quantitats d'energia.
+Una civilización automatizada, electrificada y asistida por IA necesita enormes cantidades de energía.
 
-Sense energia abundant, una part important de la postescassetat és impossible.
+Sin energía abundante, una parte importante de la post-escasez es imposible.
 
-Caldria explorar i combinar solar, eòlica, nuclear, emmagatzematge, xarxes intel·ligents, geotèrmia, eficiència, noves tecnologies i fusió si arriba a ser viable a gran escala.
+Habría que explorar y combinar solar, eólica, nuclear, almacenamiento, redes inteligentes, geotermia, eficiencia, nuevas tecnologías y fusión si llega a ser viable a gran escala.
 
-## 15. La Terra abans que altres planetes
+## 15. La Tierra antes que otros planetas
 
-La colonització espacial pot formar part del futur de la humanitat, però no hauria de ser una excusa per abandonar la sostenibilitat terrestre.
+La colonización espacial puede formar parte del futuro de la humanidad, pero no debería convertirse en una excusa para abandonar la sostenibilidad terrestre.
 
-Una seqüència possible seria:
+Una secuencia posible sería:
 
-1. Terra sostenible.
-2. Industrialització parcial del sistema solar.
-3. Assentaments permanents fora de la Terra.
-4. Exploració interestel·lar.
+1. Tierra sostenible.
+2. Industrialización parcial del sistema solar.
+3. Asentamientos permanentes fuera de la Tierra.
+4. Exploración interestelar.
 
-## 16. Límits físics
+## 16. Límites físicos
 
-No tots els límits actuals són socials o econòmics.
+No todos los límites actuales son sociales o económicos.
 
-Alguns són físics.
+Algunos son físicos.
 
-La velocitat de la llum defineix, segons la física coneguda, un límit causal fonamental.
+La velocidad de la luz define, según la física conocida, un límite causal fundamental.
 
-La mecànica quàntica ofereix fenòmens extraordinaris, però avui no coneixem cap mecanisme demostrat que permeti transportar informació o matèria de manera controlada més ràpid que la llum.
+La mecánica cuántica ofrece fenómenos extraordinarios, pero actualmente no conocemos ningún mecanismo demostrado que permita transportar información o materia de manera controlada más rápido que la luz.
 
-Això no significa que la ciència actual sigui definitiva.
+Esto no significa que la ciencia actual sea definitiva.
 
-Significa que cal distingir:
+Significa que debemos distinguir:
 
-- allò que sabem
-- allò que sospitem
-- allò que ignorem
+- lo que sabemos
+- lo que sospechamos
+- lo que ignoramos
 
-## 17. Ciència fonamental i super-IA
+## 17. Ciencia fundamental y super-IA
 
-Una civilització assistida per IA podria dedicar una part enorme de la seva capacitat al descobriment científic:
+Una civilización asistida por IA podría dedicar una parte enorme de su capacidad al descubrimiento científico:
 
-- gravetat quàntica
-- energia fosca
-- matèria fosca
-- estructura de l'espai-temps
-- nous materials
-- superconductivitat
-- computació quàntica
-- fusió
-- propulsió avançada
+- gravedad cuántica
+- energía oscura
+- materia oscura
+- estructura del espacio-tiempo
+- nuevos materiales
+- superconductividad
+- computación cuántica
+- fusión
+- propulsión avanzada
 
-L'objectiu no seria assumir que existeix una tecnologia miraculosa, sinó augmentar radicalment la capacitat humana de descobrir què és físicament possible.
+El objetivo no sería asumir que existe una tecnología milagrosa, sino aumentar radicalmente la capacidad humana de descubrir qué es físicamente posible.
 
-## 18. Super-IA com a accelerador de civilització
+## 18. Super-IA como acelerador de civilización
 
-La visió final no és una IA que substitueix la humanitat.
+La visión final no es una IA que sustituya a la humanidad.
 
-És una IA que permet a la humanitat comprendre millor el planeta, reduir el treball obligatori, produir de manera més eficient, garantir drets materials, accelerar la ciència, reduir desigualtats, gestionar recursos, anticipar riscos i explorar l'espai.
+Es una IA que permita a la humanidad comprender mejor el planeta, reducir el trabajo obligatorio, producir de manera más eficiente, garantizar derechos materiales, acelerar la ciencia, reducir desigualdades, gestionar recursos, anticipar riesgos y explorar el espacio.
 
-> **La IA seria el sistema nerviós cognitiu d'una civilització, no el seu amo.**
+> **La IA sería el sistema nervioso cognitivo de una civilización, no su amo.**
 
-## 19. Com mesurem el progrés
+## 19. Cómo medimos el progreso
 
-L'èxit no s'hauria de mesurar únicament en PIB, productivitat, benefici o consum.
+El éxito no debería medirse únicamente mediante PIB, productividad, beneficio o consumo.
 
-També en:
+También mediante:
 
-- salut
-- esperança de vida saludable
-- llibertat real
-- temps disponible
-- educació
-- desigualtat
-- qualitat ambiental
-- seguretat
-- accés al coneixement
-- participació
-- satisfacció vital
-- resiliència ecològica
+- salud
+- esperanza de vida saludable
+- libertad real
+- tiempo disponible
+- educación
+- desigualdad
+- calidad ambiental
+- seguridad
+- acceso al conocimiento
+- participación
+- satisfacción vital
+- resiliencia ecológica
 
-L'objectiu de l'economia hauria de ser servir les necessitats humanes.
+El objetivo de la economía debería ser servir a las necesidades humanas.
 
-## 20. Llibertat i límits
+## 20. Libertad y límites
 
-Un sistema orientat al bé comú no hauria de convertir-se en un sistema totalitari.
+Un sistema orientado al bien común no debería convertirse en un sistema totalitario.
 
-La tecnologia no pot justificar vigilància absoluta, control social permanent, eliminació del dissentiment, imposició d'un únic estil de vida, pèrdua de privacitat o concentració absoluta de poder.
+La tecnología no puede justificar vigilancia absoluta, control social permanente, eliminación de la disidencia, imposición de un único estilo de vida, pérdida de privacidad o concentración absoluta de poder.
 
-> **Una societat igualitària només té sentit si preserva dignitat, llibertat, diversitat i drets.**
+> **Una sociedad igualitaria solo tiene sentido si preserva dignidad, libertad, diversidad y derechos.**
 
-## 21. IA beneficiosa per disseny
+## 21. IA beneficiosa por diseño
 
-Els riscos de la IA són reals, però no s'han de confondre amb prediccions inevitables de catàstrofe.
+Los riesgos de la IA son reales, pero no deben confundirse con predicciones inevitables de catástrofe.
 
-Una IA avançada orientada a infraestructura social hauria de ser desenvolupada perquè la seva funció principal sigui ampliar el benestar, la llibertat, el coneixement i la sostenibilitat de la humanitat.
+Una IA avanzada destinada a infraestructura social debería desarrollarse para que su función principal sea ampliar el bienestar, la libertad, el conocimiento y la sostenibilidad de la humanidad.
 
-La seguretat no pot dependre exclusivament d'una hipotètica consciència moral interna del sistema.
+La seguridad no puede depender exclusivamente de una hipotética conciencia moral interna del sistema.
 
-Cal defensa en profunditat:
+Hace falta defensa en profundidad:
 
-- alineament intern
-- permisos i mínim privilegi
-- sandboxing
-- control d'eines
-- supervisió humana
-- monitorització independent
-- logs i traçabilitat
-- auditories
-- mecanismes d'aturada
-- reversibilitat
-- separació de funcions
+- alineamiento interno
+- permisos y mínimo privilegio
+- aislamiento o sandboxing
+- control de herramientas
+- supervisión humana
+- monitorización independiente
+- registros y trazabilidad
+- auditorías
+- mecanismos de parada
+- reversibilidad
+- separación de funciones
 
-No s'hauria de donar accés lliure per defecte a capacitats capaces de facilitar armes, amenaces biològiques, ciberatacs destructius o sabotatge d'infraestructures crítiques.
+No debería darse acceso libre por defecto a capacidades capaces de facilitar armas, amenazas biológicas, ciberataques destructivos o sabotaje de infraestructuras críticas.
 
-> **Una superintel·ligència segura no és aquella que promet ser bona, sinó aquella que continua sent segura fins i tot quan s'equivoca.**
+> **Una superinteligencia segura no es aquella que promete ser buena, sino aquella que continúa siendo segura incluso cuando se equivoca.**
 
-## 22. Governança sense captura
+## 22. Gobernanza sin captura
 
-Regular la IA és necessari, però una regulació mal dissenyada pot reforçar la concentració de poder si només les grans empreses poden assumir els costos de compliment, accedir al compute o participar en la definició de les regles.
+Regular la IA es necesario, pero una regulación mal diseñada puede reforzar la concentración de poder si únicamente las grandes empresas pueden asumir los costes de cumplimiento, acceder al cómputo o participar en la definición de las reglas.
 
-La governança de la IA no hauria de quedar reduïda a:
+La gobernanza de la IA no debería reducirse a:
 
-> governs + grans empreses tecnològiques decidint per la resta de la societat.
+> gobiernos + grandes empresas tecnológicas decidiendo por el resto de la sociedad.
 
-La regulació hauria d'incorporar, segons el context, estats, recerca independent, universitats, societat civil, comunitats, treballadors, empreses, institucions públiques i territoris amb menys capacitat tecnològica.
+La regulación debería incorporar, según el contexto, estados, investigación independiente, universidades, sociedad civil, comunidades, trabajadores, empresas, instituciones públicas y territorios con menor capacidad tecnológica.
 
-Cal distingir:
+Hay que distinguir:
 
-> **qui desenvolupa la tecnologia**
+> **quién desarrolla la tecnología**
 
 de
 
-> **qui defineix les regles amb què aquesta tecnologia afecta tota la societat.**
+> **quién define las reglas con las que esa tecnología afecta a toda la sociedad.**
 
-Si la IA esdevé infraestructura essencial, s'hauria d'explorar l'existència de capacitat pública, científica, cooperativa o comuna en compute, models, dades i serveis d'IA.
+Si la IA se convierte en infraestructura esencial, debería explorarse la existencia de capacidad pública, científica, cooperativa o común en cómputo, modelos, datos y servicios de IA.
 
 ## 23. Pregunta central
 
-Si la tecnologia permet separar progressivament la supervivència del treball obligatori:
+Si la tecnología permite separar progresivamente la supervivencia del trabajo obligatorio:
 
-> **què voldríem que fos la vida humana?**
+> **¿qué querríamos que fuera la vida humana?**
 
-Aquesta pregunta afecta economia, filosofia, política, educació, família, ciència, treball, cultura i identitat.
+Esta pregunta afecta a economía, filosofía, política, educación, familia, ciencia, trabajo, cultura e identidad.
 
-Potser el desenvolupament de la IA no ens obliga només a repensar la tecnologia.
+Quizá el desarrollo de la IA no nos obliga únicamente a repensar la tecnología.
 
-Pot obligar-nos a repensar què entenem per civilització.
+Puede obligarnos a repensar qué entendemos por civilización.
 
 ---
 
-# Principis resumits
+# Principios resumidos
 
-1. La dignitat humana no hauria de dependre exclusivament de la renda.
-2. Les necessitats bàsiques haurien de tendir a ser drets universals.
-3. La IA avançada hauria de disposar d'una capa d'accés universal.
-4. La infraestructura crítica d'IA no hauria de concentrar-se sense control democràtic.
-5. L'automatització hauria de reduir treball obligatori, no simplement eliminar salaris.
-6. La productivitat generada per IA hauria de beneficiar àmpliament la societat.
-7. Els humans defineixen els valors; la IA ajuda a trobar solucions.
-8. La sostenibilitat és una restricció física real.
-9. La població sostenible depèn del model de consum i tecnologia, no d'un número fix.
-10. La Terra s'ha de fer sostenible abans de confiar en la colonització espacial.
-11. La ciència ha de continuar explorant els límits físics sense convertir hipòtesis en certeses.
-12. La igualtat no pot justificar autoritarisme ni eliminar llibertats individuals.
-13. La tecnologia hauria d'ampliar les opcions de vida humana.
-14. El progrés s'hauria de mesurar en benestar humà i ecològic, no només en creixement econòmic.
-15. La seguretat de la IA hauria de basar-se en defensa en profunditat, no només en confiança en el model.
-16. La governança de la IA hauria d'evitar tant la captura corporativa com la concentració política o tecnològica.
+1. La dignidad humana no debería depender exclusivamente de la renta.
+2. Las necesidades básicas deberían tender a ser derechos universales.
+3. La IA avanzada debería disponer de una capa de acceso universal.
+4. La infraestructura crítica de IA no debería concentrarse sin control democrático.
+5. La automatización debería reducir trabajo obligatorio, no simplemente eliminar salarios.
+6. La productividad generada por IA debería beneficiar ampliamente a la sociedad.
+7. Los humanos definen los valores; la IA ayuda a encontrar soluciones.
+8. La sostenibilidad es una restricción física real.
+9. La población sostenible depende del modelo de consumo y tecnología, no de un número fijo.
+10. La Tierra debe hacerse sostenible antes de confiar en la colonización espacial.
+11. La ciencia debe continuar explorando los límites físicos sin convertir hipótesis en certezas.
+12. La igualdad no puede justificar autoritarismo ni eliminar libertades individuales.
+13. La tecnología debería ampliar las opciones de vida humana.
+14. El progreso debería medirse en bienestar humano y ecológico, no solo en crecimiento económico.
+15. La seguridad de la IA debería basarse en defensa en profundidad, no solo en confianza en el modelo.
+16. La gobernanza de la IA debería evitar tanto la captura corporativa como la concentración política o tecnológica.
 
-## Hipòtesi final
+## Hipótesis final
 
 ```text
-IA + automatització + energia abundant
+IA + automatización + energía abundante
                 +
-governança democràtica + drets universals
+gobernanza democrática + derechos universales
                 +
-gestió sostenible dels recursos
+gestión sostenible de los recursos
                 +
-seguretat i control distribuït
+seguridad + control distribuido
                 ↓
-menys treball obligatori
+menos trabajo obligatorio
                 ↓
-més llibertat real
+más libertad real
                 ↓
-més temps per cuidar, aprendre, investigar,
-crear, explorar i participar en la societat
+más tiempo para cuidar, aprender, investigar,
+crear, explorar y participar en la sociedad
 ```
 
-No és una predicció.
+No es una predicción.
 
-És una **direcció possible de disseny de civilització**.
+Es una **posible dirección de diseño de civilización**.
 
-> **Què decidirem fer nosaltres amb una intel·ligència capaç d'ajudar-nos a redissenyar la civilització?**
+> **¿Qué decidiremos hacer nosotros con una inteligencia capaz de ayudarnos a rediseñar la civilización?**
